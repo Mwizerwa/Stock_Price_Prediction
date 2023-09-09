@@ -1,1 +1,2 @@
 # Stock_Price_Prediction
+"Stock Price Prediction: Tesla Case Study" is a project designed for both learning and offering valuable insights to individuals interested in understanding and forecasting stock market trends. Using historical stock data and various analytical techniques, this project aims to educate users on the intricacies of predicting Tesla's stock prices. By sharing insights and predictive models, it empowers investors and enthusiasts to make more informed decisions when dealing with Tesla's stock.
